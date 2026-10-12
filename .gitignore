@@ -1,0 +1,5 @@
+streamscan
+*.exe
+demo.txt
+report.json
+*Zone.Identifier
